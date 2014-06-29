@@ -10,7 +10,6 @@
     "basic-auth-connect": "^1.0.0",
     "busboy": "^0.2.7",
     "express": "^4.0",
-    "morgan": "^1.1.1",
-    "signal-master": "^0.2.2"
+    "morgan": "^1.1.1"
   }
 }
